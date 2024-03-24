@@ -1,9 +1,5 @@
-# Introduction to Generative AI
-## What is Generative AI?
+# What will be covered in this Seminar?
 
-
-## LLMs, their purpose and their capabilities
-
-## History of LLMs
-
-![History of LLMs](/media/01-History-ChatGPT.png)
+## Day 1
+- [Introduction to LLM, OpenAI, GPT, ChatGPT, Generative AI Policies, Fine Tuning and History lesson](Day1/Introduction.md)
+- [Prompt Engineering](Day1/PromptEngineering.md)
