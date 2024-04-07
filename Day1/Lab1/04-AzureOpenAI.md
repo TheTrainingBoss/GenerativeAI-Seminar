@@ -14,7 +14,7 @@ To use the Azure OpenAI resource, you will need to authenticate using the API ke
 You can try using the Azure OpenAI resource from Postman by creating a new request and setting the endpoint and API key in the request headers. You can then send a request to the OpenAI API and get a response from the model.
 
 The method is a **POST**
-The endpoint is https://<name of the AZ OpenAI resource>.openai.azure.com/openai/deployments/<Name of the Model given during creation>/completions/?api-key=xxxxxxx&api-version=2024-02-01
+The endpoint is https://**name of the AZ OpenAI resource**.openai.azure.com/openai/deployments/**Name of the Model given during creation**/completions/?api-key=xxxxxxx&api-version=2024-02-01
 
 You can get the full parameters from the Azure OpenAI resource documentation.
 https://learn.microsoft.com/en-us/azure/ai-services/openai/reference 
