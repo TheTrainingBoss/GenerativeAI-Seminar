@@ -1,0 +1,7 @@
+{
+  "type": "openai",
+  "model": "gpt-3.5-turbo",
+  "endpoint": "",
+  "apikey": "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",
+  "org": "org-FZKO0SWgPeICYAUFoLg0lERu"
+}
