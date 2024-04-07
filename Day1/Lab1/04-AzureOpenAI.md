@@ -18,3 +18,11 @@ The endpoint is https://**name of the AZ OpenAI resource**.openai.azure.com/open
 
 You can get the full parameters from the Azure OpenAI resource documentation.
 https://learn.microsoft.com/en-us/azure/ai-services/openai/reference 
+
+The body of the request can be as simple as something like
+```json
+{
+  "prompt": "Where do Visual Studio Live Conferences take place?",
+  "max_tokens": 100
+}
+```
