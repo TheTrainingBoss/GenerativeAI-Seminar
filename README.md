@@ -47,7 +47,7 @@ Well, for you as an individual, it is very easy and simple to use, but for an en
 ### Prompt Engineering and the importance of a good prompt
 ### Zero shot Vs Few Shot Prompts
 ### Lab on using Azure OpenAI LLM interactions with Few Shot Prompts
-### Orchestraions
+### Orchestrations
 - Semantic Kernel
 - Langchain
 ### Lab on Using Semantic Kernal to orchestrate a conversation.
