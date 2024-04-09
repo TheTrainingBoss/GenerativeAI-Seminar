@@ -5,9 +5,10 @@
 ## Lab 1 - Working with OpenAI using API
 
 - [Working with OpenAI](Lab1/01-GettingStarted-OpenAPI.ipynb)
-- [Google Doc OpenAI Text Generation](Lab1/02-GoogleDocGeneration.js)
-- [Using the OpenAI Playground to experiment](Lab1/03-Playground.md)
-- [Working with Azure OpenAI](Lab1/04-AzureOpenAI.md)
+- [Postman OpenAI API](Lab1/02-Postman-OpenAI.md)
+- [Google Doc OpenAI Text Generation](Lab1/03-GoogleDocGeneration.js)
+- [Using the OpenAI Playground to experiment](Lab1/04-Playground.md)
+- [Working with Azure OpenAI](Lab1/05-AzureOpenAI.md)
 ## Lab 2 - Semantic Kernel Fundamentals
 
 - [Lab Setup](Lab2/00-AI-settings.ipynb)
