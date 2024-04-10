@@ -8,6 +8,7 @@
 
 ## Lab 6 - Working with Embeddings Models
 
+[Semantic Kernal Embeddings](Lab6/01-SK_memory-and-embeddings.ipynb)
 [OpenAI Embeddings](Lab6/OpenAI-Embedding-Postman.md)
 
 
