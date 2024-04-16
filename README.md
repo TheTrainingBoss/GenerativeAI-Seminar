@@ -41,3 +41,5 @@ Well, for you as an individual, it is very easy and simple to use, but for an en
 |4:00 - 4:30|Red Team Security|
 |4:30 - 5:00|Open Discussion on both days|
 
+## I hope you enjoyed the seminar!
+### Looking forward to seeing you in the next one!
